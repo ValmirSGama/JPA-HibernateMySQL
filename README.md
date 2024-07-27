@@ -17,7 +17,6 @@ Este repositório demonstra como utilizar JPA (Java Persistence API) e Hibernate
 - **Configuração do Maven:** Para gerenciamento de dependências e construção do projeto.
 - **Entidades**: Exemplos de mapeamento de entidades Java para tabelas do banco de dados.
 - **Consultas JPQL**: Uso de Java Persistence Query Language (JPQL) para realizar consultas.
-- **Relacionamentos**: Implementação de relacionamentos `@OneToMany`, `@ManyToOne`, `@ManyToMany`.
 - **Transações**: Gerenciamento de transações e operações CRUD.
 
 Este projeto é desenvolvido para entender o uso de ORM (Object-Relational Mapping) com JPA e Hibernate em aplicações Java.
